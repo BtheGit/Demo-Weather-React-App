@@ -1,0 +1,55 @@
+@import "../styles/variables";
+ 
+.home__outer {
+  height: 100%;
+  width: 100%;
+  background-color: #7f9bfa;
+}
+
+.home__inner {
+  position: relative;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  background-color: #6789fe;
+  @media screen and (min-width: $break-small) {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+}
+
+.home__button {
+  position: absolute;
+  top: 15px;
+  border: none;
+  font-size: 40px;
+  font-weight: lighter;
+  color: $color-white;
+
+
+}
+
+.button--refresh {
+  left: 15px;
+}
+
+.button--settings {
+  right: 15px;
+}
+
+.home__updated {
+  width: 100%;
+  height: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: $color-white;
+  font-size: 10px;
+
+  @media screen and (min-width: $break-small) {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+
+}

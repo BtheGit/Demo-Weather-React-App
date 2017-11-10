@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 162.56 162.56"
+   height="162.56mm"
+   width="162.56mm">
+  <defs
+     id="defs2">
+    <filter
+       id="filter4580"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4578"
+         result="component">
+        <feFuncR
+           id="feFuncR4572"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4574"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4576"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4590"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4588"
+         result="component">
+        <feFuncR
+           id="feFuncR4582"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4584"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4586"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4600"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4598"
+         result="component">
+        <feFuncR
+           id="feFuncR4592"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4594"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4596"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4610"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4608"
+         result="component">
+        <feFuncR
+           id="feFuncR4602"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4604"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4606"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4620"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4618"
+         result="component">
+        <feFuncR
+           id="feFuncR4612"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4614"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4616"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4630"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4628"
+         result="component">
+        <feFuncR
+           id="feFuncR4622"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4624"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4626"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4640"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4638"
+         result="component">
+        <feFuncR
+           id="feFuncR4632"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4634"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4636"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4650"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4648"
+         result="component">
+        <feFuncR
+           id="feFuncR4642"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4644"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4646"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4660"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4658"
+         result="component">
+        <feFuncR
+           id="feFuncR4652"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4654"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4656"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4670"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4668"
+         result="component">
+        <feFuncR
+           id="feFuncR4662"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4664"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4666"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4680"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4678"
+         result="component">
+        <feFuncR
+           id="feFuncR4672"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4674"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4676"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4690"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4688"
+         result="component">
+        <feFuncR
+           id="feFuncR4682"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4684"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4686"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4700"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4698"
+         result="component">
+        <feFuncR
+           id="feFuncR4692"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4694"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4696"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4710"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4708"
+         result="component">
+        <feFuncR
+           id="feFuncR4702"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4704"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4706"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4720"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4718"
+         result="component">
+        <feFuncR
+           id="feFuncR4712"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4714"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4716"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4730"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4728"
+         result="component">
+        <feFuncR
+           id="feFuncR4722"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4724"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4726"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4740"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4738"
+         result="component">
+        <feFuncR
+           id="feFuncR4732"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4734"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4736"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4750"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4748"
+         result="component">
+        <feFuncR
+           id="feFuncR4742"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4744"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4746"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4760"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4758"
+         result="component">
+        <feFuncR
+           id="feFuncR4752"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4754"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4756"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4770"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4768"
+         result="component">
+        <feFuncR
+           id="feFuncR4762"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4764"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4766"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+    <filter
+       id="filter4780"
+       style="color-interpolation-filters:sRGB">
+      <feComponentTransfer
+         id="feComponentTransfer4778"
+         result="component">
+        <feFuncR
+           id="feFuncR4772"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncG
+           id="feFuncG4774"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+        <feFuncB
+           id="feFuncB4776"
+           offset="-0.0885417"
+           exponent="1.61"
+           amplitude="1.09"
+           type="gamma" />
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-28.333095,-15.392619)"
+     id="layer1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,41.879762,28.939286)"
+       id="g158">
+      <g
+         id="g74" />
+      <g
+         id="g76" />
+      <g
+         id="g78" />
+      <g
+         id="g80" />
+      <g
+         id="g82" />
+      <g
+         id="g84" />
+      <g
+         id="g86" />
+      <g
+         id="g88" />
+      <g
+         id="g90" />
+      <g
+         id="g92" />
+      <g
+         id="g94" />
+      <g
+         id="g96" />
+      <g
+         id="g98" />
+      <g
+         id="g100" />
+      <g
+         id="g102" />
+      <path
+         style="fill:#c8b7b7;filter:url(#filter4780)"
+         d="m 512,256 c 0,30.271 -5.256,59.308 -14.9,86.267 -0.543,1.536 -1.108,3.062 -1.693,4.577 -1.411,3.741 -2.915,7.44 -4.514,11.097 -2.069,4.775 -4.284,9.477 -6.635,14.096 C 441.94,455.105 355.621,512 256,512 225.228,512 195.73,506.577 168.406,496.619 135.847,484.77 106.381,466.495 81.523,443.329 59.695,422.985 41.42,398.879 27.742,372.036 12.225,341.556 2.623,307.566 0.47,271.569 0.157,266.418 0,261.224 0,256 0,243.587 0.888,231.382 2.602,219.439 20.334,95.368 127.028,0 256,0 c 11.807,0 23.437,0.805 34.826,2.351 23.918,3.25 46.791,9.812 68.127,19.195 C 418.146,47.574 465.595,95.358 491.206,154.77 504.592,185.814 512,220.045 512,256 Z"
+         id="path10" />
+      <path
+         style="fill:#376e83;fill-opacity:1;filter:url(#filter4770)"
+         d="m 512,256 c 0,30.271 -5.256,59.308 -14.9,86.267 -0.543,1.536 -1.108,3.062 -1.693,4.577 H 290.826 V 2.351 c 23.918,3.25 46.791,9.812 68.127,19.195 16.52,7.262 32.12,16.217 46.582,26.645 9.613,6.928 18.714,14.503 27.261,22.674 24.701,23.583 44.69,52.078 58.41,83.905 C 504.592,185.814 512,220.045 512,256 Z"
+         id="path12" />
+      <path
+         style="fill:#b58657;filter:url(#filter4760)"
+         d="M 484.258,372.036 C 441.94,455.105 355.621,512 256,512 225.228,512 195.73,506.577 168.406,496.619 135.847,484.77 106.381,466.495 81.523,443.329 59.695,422.985 41.42,398.879 27.742,372.036 Z"
+         id="path14" />
+      <g
+         style="fill:#809ca8;fill-opacity:1;filter:url(#filter4750)"
+         id="g22">
+        <path
+           style="fill:#809ca8;fill-opacity:1"
+           d="m 405.535,48.191 h -64.387 c -3.678,0 -7.011,-1.494 -9.425,-3.897 -2.403,-2.414 -3.897,-5.747 -3.897,-9.425 0,-7.356 5.966,-13.322 13.322,-13.322 h 17.805 c 16.521,7.261 32.121,16.216 46.582,26.644 z"
+           id="path16" />
+        <path
+           style="fill:#809ca8;fill-opacity:1"
+           d="m 491.207,154.77 h -134.51 c -3.678,0 -7.011,-1.494 -9.425,-3.897 -2.403,-2.414 -3.897,-5.747 -3.897,-9.425 0,-7.356 5.966,-13.322 13.322,-13.322 h 40.5 c 3.678,0 7.011,-1.494 9.425,-3.897 2.403,-2.414 3.897,-5.747 3.897,-9.425 0,-7.356 -5.966,-13.322 -13.322,-13.322 h -11.306 c -3.678,0 -7.011,-1.494 -9.425,-3.897 -2.403,-2.414 -3.897,-5.747 -3.897,-9.425 0,-7.356 5.966,-13.322 13.322,-13.322 h 37.418 c 3.678,0 7.011,-1.494 9.415,-3.897 l 0.073,-0.073 c 24.701,23.58 44.69,52.075 58.41,83.902 z"
+           id="path18" />
+        <path
+           style="fill:#809ca8;fill-opacity:1"
+           d="m 422.655,204.688 v 0 c 0,-7.358 -5.965,-13.324 -13.322,-13.324 H 297.059 c -7.358,0 -13.322,5.965 -13.322,13.324 v 0 c 0,7.358 5.965,13.324 13.322,13.324 h 36.316 c 7.358,0 13.322,5.965 13.322,13.322 v 0 c 0,7.358 -5.965,13.324 -13.322,13.324 h -3.702 c -7.358,0 -13.322,5.965 -13.322,13.324 v 0 c 0,7.358 5.965,13.322 13.322,13.322 h 107.605 c 7.358,0 13.322,-5.965 13.322,-13.322 v 0 c 0,-7.358 5.965,-13.324 13.324,-13.324 h 3.702 c 7.358,0 13.324,-5.965 13.324,-13.324 v 0 c 0,-7.358 -5.965,-13.322 -13.324,-13.322 h -31.648 c -7.358,0 -13.323,-5.966 -13.323,-13.324 z"
+           id="path20" />
+      </g>
+      <path
+         style="fill:#c69a6a;filter:url(#filter4740)"
+         d="m 270.9,483.297 c 0,7.356 -5.956,13.322 -13.322,13.322 H 168.406 C 135.847,484.77 106.381,466.495 81.523,443.329 h 2.121 c 3.678,0 7.011,-1.494 9.415,-3.897 2.414,-2.414 3.908,-5.747 3.908,-9.425 0,-7.367 5.966,-13.322 13.322,-13.322 h 126.568 c 3.678,0 7.011,1.494 9.425,3.897 2.403,2.414 3.897,5.747 3.897,9.425 0,7.356 -5.966,13.322 -13.322,13.322 h -42.935 c -7.356,0 -13.322,5.966 -13.322,13.322 0,7.356 5.966,13.322 13.322,13.322 h 63.655 c 3.689,0 7.011,1.494 9.425,3.897 2.414,2.415 3.898,5.749 3.898,9.427 z"
+         id="path24" />
+      <path
+         style="fill:#d3aa81;filter:url(#filter4730)"
+         d="m 37.136,258.247 c 0,7.356 -5.966,13.322 -13.322,13.322 H 0.47 C 0.157,266.418 0,261.224 0,256 c 0,-12.413 0.888,-24.618 2.602,-36.561 4.65,2.069 7.889,6.74 7.889,12.163 0,3.678 1.484,7.011 3.897,9.425 2.414,2.403 5.736,3.897 9.425,3.897 3.678,0 7.011,1.494 9.415,3.897 2.413,2.414 3.908,5.747 3.908,9.426 z"
+         id="path26" />
+      <path
+         style="fill:#5c5e70;filter:url(#filter4720)"
+         d="M 251.914,104.208 V 342.267 H 44.69 V 104.208 C 44.69,65.171 66.267,31.191 98.147,13.532 113.006,5.287 130.1,0.596 148.302,0.596 c 57.219,0 103.612,46.383 103.612,103.612 z"
+         id="path28" />
+      <path
+         style="fill:#494b5b;filter:url(#filter4710)"
+         d="M 151.604,104.208 V 342.267 H 44.69 V 104.208 c 0,-39.037 21.577,-73.017 53.457,-90.676 31.88,17.658 53.457,51.649 53.457,90.676 z"
+         id="path30" />
+      <path
+         style="fill:#e8dbc4;filter:url(#filter4700)"
+         d="m 497.1,342.267 c -3.657,10.24 -7.962,20.177 -12.842,29.769 H 44.69 v -29.769 z"
+         id="path32" />
+      <path
+         style="fill:#d6c8b0;filter:url(#filter4690)"
+         d="m 490.893,357.94 c -2.069,4.775 -4.284,9.477 -6.635,14.096 H 44.69 V 357.94 Z"
+         id="path34" />
+      <path
+         style="fill:#ff525d;filter:url(#filter4680)"
+         d="m 449.39,332.737 v 9.529 H 44.69 V 169.859 h 241.831 c 36.874,0 70.886,12.257 98.179,32.914 9.718,7.356 18.589,15.768 26.425,25.078 3.793,4.504 7.335,9.206 10.637,14.106 5.308,7.899 9.947,16.28 13.824,25.078 3.124,7.064 5.757,14.388 7.847,21.943 1.996,7.126 3.511,14.461 4.514,21.943 0.952,7.135 1.443,14.418 1.443,21.816 z"
+         id="path36" />
+      <path
+         style="fill:#5c5e70;filter:url(#filter4670)"
+         d="M 435.587,267.034 H 329.498 c -10.825,0 -19.592,-8.767 -19.592,-19.592 0,-5.413 2.194,-10.303 5.736,-13.855 3.542,-3.542 8.443,-5.736 13.855,-5.736 h 81.627 c 3.793,4.504 7.335,9.206 10.637,14.106 5.31,7.899 9.949,16.279 13.826,25.077 z"
+         id="path38" />
+      <path
+         style="fill:#ff6e7c;filter:url(#filter4660)"
+         d="m 331.846,210.612 h -72.095 c -5.193,0 -9.404,-4.21 -9.404,-9.404 v 0 c 0,-5.193 4.21,-9.404 9.404,-9.404 h 72.095 c 5.193,0 9.404,4.21 9.404,9.404 v 0 c -10e-4,5.194 -4.211,9.404 -9.404,9.404 z"
+         id="path40" />
+      <path
+         style="fill:#ef4152;filter:url(#filter4650)"
+         d="m 224.475,309.227 c 0,8.077 -6.541,14.629 -14.629,14.629 h -74.303 c -5.078,0 -9.686,2.058 -13.019,5.392 -3.333,3.333 -5.392,7.931 -5.392,13.019 H 44.69 V 169.859 H 219 c 0,0 -60.019,0 -87.918,38.285 -8.474,11.619 -0.251,27.941 14.137,27.941 h 43.729 c 4.044,0 7.701,1.64 10.344,4.284 2.644,2.644 4.284,6.301 4.284,10.344 0,8.077 -6.541,14.629 -14.629,14.629 h -26.812 c -4.044,0 -7.701,1.641 -10.344,4.284 -2.644,2.644 -4.284,6.301 -4.284,10.344 0,8.077 6.552,14.629 14.629,14.629 h 47.71 c 4.044,0 7.701,1.641 10.344,4.284 2.645,2.643 4.285,6.3 4.285,10.344 z"
+         id="path42" />
+      <g
+         style="filter:url(#filter4640)"
+         id="g50">
+        <rect
+           x="120.268"
+           y="372.03601"
+           style="fill:#f4a14e"
+           width="72.095001"
+           height="26.648001"
+           id="rect44" />
+        <rect
+           x="247.21201"
+           y="372.03601"
+           style="fill:#f4a14e"
+           width="72.095001"
+           height="26.648001"
+           id="rect46" />
+        <rect
+           x="374.15701"
+           y="372.03601"
+           style="fill:#f4a14e"
+           width="72.095001"
+           height="26.648001"
+           id="rect48" />
+      </g>
+      <g
+         style="filter:url(#filter4630)"
+         id="g58">
+        <rect
+           x="80.561996"
+           y="372.03601"
+           style="fill:#e28d40"
+           width="72.095001"
+           height="26.648001"
+           id="rect52" />
+        <rect
+           x="207.506"
+           y="372.03601"
+           style="fill:#e28d40"
+           width="72.095001"
+           height="26.648001"
+           id="rect54" />
+        <rect
+           x="334.461"
+           y="372.03601"
+           style="fill:#e28d40"
+           width="72.095001"
+           height="26.648001"
+           id="rect56" />
+      </g>
+      <path
+         style="fill:#ffd15c;filter:url(#filter4620)"
+         d="m 447.948,310.92 h -39.309 c -3.03,0 -5.768,-1.223 -7.753,-3.208 -1.985,-1.985 -3.218,-4.733 -3.218,-7.764 0,-6.06 4.911,-10.971 10.971,-10.971 h 34.795 c 1.996,7.126 3.511,14.461 4.514,21.943 z"
+         id="path60" />
+      <rect
+         x="44.689999"
+         y="342.267"
+         style="fill:#d6c8b0;filter:url(#filter4610)"
+         width="72.443001"
+         height="29.768999"
+         id="rect62" />
+      <path
+         style="fill:#5c5e70;filter:url(#filter4600)"
+         d="m 237.808,224.841 v 26.394 c 0,8.725 -7.074,15.799 -15.799,15.799 H 95.316 c -8.725,0 -15.799,-7.074 -15.799,-15.799 v -26.394 c 0,-8.725 7.074,-15.799 15.799,-15.799 H 222.01 c 8.724,0 15.798,7.074 15.798,15.799 z"
+         id="path64" />
+      <g
+         style="filter:url(#filter4590)"
+         id="g70">
+        <path
+           style="fill:#797b89"
+           d="m 217.339,230.682 h -28.56 c -4.04,0 -7.314,-3.275 -7.314,-7.314 v 0 c 0,-4.04 3.275,-7.314 7.314,-7.314 h 28.56 c 4.04,0 7.314,3.275 7.314,7.314 v 0 c 0,4.039 -3.275,7.314 -7.314,7.314 z"
+           id="path66" />
+        <path
+           style="fill:#797b89"
+           d="m 365.017,249.665 h -28.56 c -4.04,0 -7.314,-3.275 -7.314,-7.314 v 0 c 0,-4.04 3.275,-7.314 7.314,-7.314 h 28.56 c 4.04,0 7.314,3.275 7.314,7.314 v 0 c 10e-4,4.039 -3.274,7.314 -7.314,7.314 z"
+           id="path68" />
+      </g>
+      <path
+         style="fill:#494b5b;filter:url(#filter4580)"
+         d="m 203.577,250.713 c 0,8.077 -6.541,14.629 -14.629,14.629 h -26.812 c -2.466,0 -4.796,0.616 -6.834,1.693 H 95.316 c -8.725,0 -15.799,-7.074 -15.799,-15.799 v -26.394 c 0,-8.725 7.074,-15.799 15.799,-15.799 h 35.15 c -7.429,11.546 0.731,27.042 14.754,27.042 h 43.729 c 4.044,0 7.701,1.64 10.344,4.284 2.644,2.643 4.284,6.3 4.284,10.344 z"
+         id="path72" />
+    </g>
+  </g>
+</svg>

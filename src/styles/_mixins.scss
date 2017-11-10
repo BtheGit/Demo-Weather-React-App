@@ -1,0 +1,17 @@
+@import './variables';
+
+@mixin header-retro($base-color: #ad36b6) {
+  font-family: $font-retro;
+  font-size: 65px;
+  color: white;
+  text-shadow: -3px 3px 0px lighten($base-color, 30%),
+                 -6px 6px 0px lighten($base-color, 15%),
+                 -9px 9px 0px $base-color;
+
+  @media screen and (min-width: $break-small) {
+    font-size: 120px;
+    text-shadow: -5px 5px 0px lighten($base-color, 30%),
+                  -10px 10px 0px lighten($base-color, 15%),
+                  -15px 15px 0px $base-color;
+  }
+}

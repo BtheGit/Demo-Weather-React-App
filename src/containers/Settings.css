@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,700");
+@import url("https://fonts.googleapis.com/css?family=VT323");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,700");
+@import url("https://fonts.googleapis.com/css?family=VT323");
+.settings__outer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  user-select: none;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  @media screen and (min-width: 700px) {
+    .settings__outer {
+      background: rgba(112, 3, 184, 0.664); } }
+
+.settings__inner {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #9923a0;
+  color: #e7e7e7; }
+  @media screen and (min-width: 700px) {
+    .settings__inner {
+      max-height: 650px;
+      max-width: 500px;
+      box-shadow: 15px 15px 0 purple; } }
+
+.settings-enter .settings__inner {
+  transform: translateY(-1000px); }
+
+@media screen and (min-width: 700px) {
+  .settings-enter {
+    background: rgba(112, 3, 184, 0); } }
+
+.settings-enter.settings-enter-active .settings__inner {
+  transform: translateY(0);
+  transition: all 250ms ease-in-out; }
+
+@media screen and (min-width: 700px) {
+  .settings-enter.settings-enter-active {
+    background: rgba(112, 3, 184, 0.664);
+    transition: all 250ms ease-in-out; } }
+
+@media screen and (min-width: 700px) {
+  .settings-exit {
+    background: rgba(112, 3, 184, 0.664); } }
+
+.settings-exit.settings-exit-active .settings__inner {
+  transform: translateY(-1000px);
+  transition: all 450ms ease-out; }
+
+@media screen and (min-width: 700px) {
+  .settings-exit.settings-exit-active {
+    background: rgba(112, 3, 184, 0);
+    transition: all 250ms ease-in-out; } }
+
+.settings__close {
+  position: absolute;
+  font-size: 30px;
+  top: 15px;
+  right: 15px;
+  height: 30px;
+  width: 30px;
+  color: white;
+  border: none; }
+  @media screen and (min-width: 700px) {
+    .settings__close {
+      top: 5px;
+      right: 35px;
+      font-size: 60px; } }
+
+.settings__header {
+  font-family: "VT323", sans-serif;
+  font-size: 65px;
+  color: white;
+  text-shadow: -3px 3px 0px #dfa2e3, -6px 6px 0px #ca67d2, -9px 9px 0px #ad36b6;
+  margin-bottom: 70px;
+  margin-left: 15px; }
+  @media screen and (min-width: 700px) {
+    .settings__header {
+      font-size: 120px;
+      text-shadow: -5px 5px 0px #dfa2e3, -10px 10px 0px #ca67d2, -15px 15px 0px #ad36b6; } }
+
+.settings-input__container {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 25px 0; }
+  .settings-input__container label {
+    font-family: "VT323", sans-serif;
+    font-weight: bolder;
+    font-size: 30px; }
+  .settings-input__container p {
+    margin: 5px 0;
+    font-weight: 700; }
+    .settings-input__container p span {
+      font-family: "VT323", sans-serif;
+      margin: 0 5px; }
+
+.prime__slider {
+  width: 60%;
+  margin: 10px 0;
+  padding: 5px 0; }
+  .prime__slider .ui-slider-range.ui-widget-header {
+    background: #e500ff; }

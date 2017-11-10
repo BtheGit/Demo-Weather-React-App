@@ -1,0 +1,24 @@
+@import "../styles/variables";
+
+.notfound__outer {
+  height: 100%;
+  width: 100%;
+  margin-top: $size-header-height-main + $size-header-height-sub;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: $color-blue-light;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-blend-mode: overlay;
+  color: white;
+  font-size: 4em;
+  font-weight: 700;
+
+  div {
+    margin-bottom: 100px;
+  }
+}

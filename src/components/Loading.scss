@@ -1,0 +1,27 @@
+@import '../styles/variables';
+
+.loading__outer {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: cornflowerblue;
+
+}
+
+.loading__spinner {
+  width: 50%;
+  height: 50%;
+  animation: spinner 7s linear infinite;
+}
+
+@keyframes spinner {
+  0%, 100% {
+    transform: rotateZ(0)
+  }
+
+  50% {
+    transform: rotate(360deg);
+  }
+}
