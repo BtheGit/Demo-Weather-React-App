@@ -22,7 +22,11 @@
   border: none;
   font-size: 40px;
   font-weight: lighter;
-  color: white; }
+  color: white;
+  cursor: pointer; }
+  .home__button:hover {
+    color: #a256f8;
+    transition: all 100ms linear; }
 
 .button--refresh {
   left: 15px; }

@@ -94,6 +94,11 @@
   color: white;
   border: none;
 
+  &:hover {
+    color: rgb(132, 208, 255);
+    transition: all 250ms linear;
+  }
+
   @media screen and (min-width: $break-small) {
     top: 5px;
     right: 35px;

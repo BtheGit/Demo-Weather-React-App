@@ -26,7 +26,12 @@
   font-size: 40px;
   font-weight: lighter;
   color: $color-white;
-
+  cursor: pointer;
+  
+  &:hover {
+    color: rgb(162, 86, 248);
+    transition: all 100ms linear;
+  }
 
 }
 

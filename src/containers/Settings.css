@@ -70,6 +70,9 @@
   width: 30px;
   color: white;
   border: none; }
+  .settings__close:hover {
+    color: #84d0ff;
+    transition: all 250ms linear; }
   @media screen and (min-width: 700px) {
     .settings__close {
       top: 5px;
