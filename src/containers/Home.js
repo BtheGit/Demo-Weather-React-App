@@ -42,20 +42,16 @@ export class Home extends React.Component {
     });
   }
 
-  renderError = err => {
+  // For expediency, we are reusing this component and setting its defaults to error state
+  renderError = () => {
     return (
-      <Day
-        type={'ERR'}
-        icon={weatherIcons['ERR']}
-        date={err}
-      />
+      <Day />
     )    
   }
 
   renderResults = () => {
     const {
       hasError, 
-      err, 
       results,
       lastUpdate,
       fetchWeatherData,
@@ -83,7 +79,7 @@ export class Home extends React.Component {
             <i className="fa fa-sliders" aria-hidden="true"></i>
           </button>
           { hasError 
-              ? this.renderErrorDays(err) 
+              ? this.renderError() 
               : results 
                 ? this.renderDays(results) 
                 : null 

@@ -5,7 +5,7 @@ import {
   UPDATE_RAW_DATA
 } from './weatherTypes';
 import { 
-  url as targetUrl,
+  url,
   formatAPIResponse,
   determineCommuteMethods
 } from '../utilities/api';
@@ -48,12 +48,8 @@ export const handleFetchError = res => {
  * fetchWeatherData()
  * For the purposes of this exercise, the url is hardcoded and so we can create rigid 
  * expectations for return value formatting.
- * The option to add a custom url here is more for potential testing use 
- * cases using a library such as fetch-mock than anything else.
- * 
- * @param {string} [api formatted url request] 
  */
-export const fetchWeatherData = (url = targetUrl) => (dispatch, getState) => {
+export const fetchWeatherData = () => (dispatch, getState) => {
   const settings = getState().settings;
   dispatch(isFetching());
   fetch(url)
