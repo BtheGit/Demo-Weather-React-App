@@ -37,10 +37,11 @@ const splitDays = (hours, currentDate) => {
   const today = [],
         tomorrow = [];
   const currentDay = currentDate.getDay();
+  const nextDay = currentDay === 6 ? 0 : currentDay + 1; 
   hours.forEach(hour => {
     if(hour.day === currentDay) {
       today.push(hour);
-    } else if(hour.day === currentDay + 1) {
+    } else if(hour.day === nextDay) {
       tomorrow.push(hour);
     }
   });
